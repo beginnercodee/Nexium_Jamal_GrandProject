@@ -1,0 +1,58 @@
+Wireframes – AI Recipe Generator
+
+---
+
+1. Login Page
+
++---------------------------+
+|        Recipe AI          |
+|---------------------------|
+|   Enter your email        |
+|   [__________________]    |
+|   [ Send Magic Link ]     |
++---------------------------+
+
+---
+
+2. Home Page (After Login)
+
++---------------------------+
+|     What’s in your fridge?|
+|---------------------------|
+| 🥕 List your ingredients: |
+| [ tomato, onion, egg ]    |
+|                           |
+| [ Generate Recipe ]       |
++---------------------------+
+
+---
+
+3. Recipe Result Page
+
++---------------------------+
+|      Your Recipe 🍽️       |
+|---------------------------|
+| 🍛 Title: Spicy Tomato Omelette |
+| 📝 Ingredients:            |
+| - Tomato                  |
+| - Egg                     |
+| - Onion                   |
+| 🧑‍🍳 Steps:                |
+| 1. Beat the eggs...       |
+| 2. Fry onions...          |
+|                          |
+| [ Copy Recipe ] [Back]   |
++---------------------------+
+
+---
+
+4. Optional – History Page
+
++---------------------------+
+|     Your Saved Recipes    |
+|---------------------------|
+| 🍝 Pasta Alfredo          |
+| 🍳 Veggie Omelette       |
+| 🍛 Chicken Biryani       |
+| [ View ] [Delete ]        |
++---------------------------+
